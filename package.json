@@ -1,0 +1,22 @@
+{
+  "name": "hobnob",
+  "version": "0.1.0",
+  "description": "study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/va1ery/hobnob.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "vg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/va1ery/hobnob/issues"
+  },
+  "homepage": "https://github.com/va1ery/hobnob#readme"
+}
